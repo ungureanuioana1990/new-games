@@ -1,0 +1,31 @@
+.square {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: black;
+}
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+    margin-left: 20rem;
+}
+.mole{
+    background-image: url(mole3.jpg);
+    background-size: cover;
+}
+h1{
+    justify-content: center;
+    -webkit-text-stroke-width: medium;
+    margin-left: 31rem;
+    color: darkslategrey;
+
+}
+h2{
+    margin-left: 537px;
+}
+ #score{
+    height: 20px;}
